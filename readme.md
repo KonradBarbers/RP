@@ -1,0 +1,1 @@
+This repository is supplementary to the Research Project authored by Konrad Barbers of TU Delft. It contains all files used for preprocessing data and running the experiment in Elliot.
